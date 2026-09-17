@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e3083283f6d93d24685684a37b1e0c45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bouleFeuPrefab: {fileID: -4825335088750731378, guid: 6982cd0a26a17764ca138e2d1f9e56ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
